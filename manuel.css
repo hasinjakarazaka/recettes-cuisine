@@ -1,0 +1,10 @@
+#presentation p {
+    text-align: right;
+    font-size: x-small;
+}
+
+#ingredients { background-color: rgb(224, 223, 149);}
+ 
+.ingredients {color: blue;}
+
+.commentaire {color: brown;}

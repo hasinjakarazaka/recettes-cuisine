@@ -1,0 +1,8 @@
+#entete,.pied {
+    background-color: #fa09fa;
+    text-align: center;
+}
+
+.pied{text-align: right;}
+
+.pied p img {width:2em ;}
